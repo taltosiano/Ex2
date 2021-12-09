@@ -1,7 +1,7 @@
 # Ex2
+
 Tal tosiano-208846600
 Moran shalev-316220938
-
 
 The purpose of our project:
 Building a Directed weighted graph. The project contains 2 algorithms - for finding the shortest route in the graph.
