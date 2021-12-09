@@ -27,4 +27,29 @@ Every node has data (id-key,location,weight,info,tag) that helps us to represent
 • GraphAlgorithms-represents a Directed (positive) Weighted Graph Theory Algorithms and      including many algorithms.
 for the tsp function (Travelling salesman problem) we use the "tarjan" algoritem to solve  this problem.
  for the shortestPathDist function we use the dijkstra's algorithm to solve this problem.
+ 
+ Building large graphs:
+10 Vertices 90 Edges: 
+100 Vertices 1,000 Edges: 
+1,000 Vertices 10,000 Edges: 
+10,000 Vertices 100,000 Edges: 
+100,000 Vertices 1,000,000 Edges: 
+1,000,000 Vertices 10,000,000 Edges: 
+Running Algorithms:
+isConnected:
+10 Vertices 90 Edges: 
+100 Vertices 1,000 Edges: 
+1,000 Vertices 10,000 Edges: 
+10,000 Vertices 100,000 Edges: 
+100,000 Vertices 2,000,000 Edges: 6 sec 
+1,000,000 Vertices 10,000,000 Edges: 
+Center:
+10 Vertices 90 Edges: 
+100 Vertices 1,000 Edges: 
+1,000 Vertices 10,000 Edges: 
+10,000 Vertices 100,000 Edges: 
+100,000 Vertices 1,000,000 Edges: 
+1,000,000 Vertices 10,000,000 Edges: 
 
+our uml diagram:
+![Ex2 uml](https://user-images.githubusercontent.com/94299489/145443535-7f97a797-c571-48c1-a68a-b5f298522951.png)
