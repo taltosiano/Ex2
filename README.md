@@ -50,17 +50,30 @@ for the shortestPathDist function we use the dijkstra's algorithm to solve this 
 ### How to load & run the gui
 We load the graph with the "load" button. There are a variety of actions we can perform on the graph, each button performs another action. for example: if we click on the "addNode" button, a vertex will be added to the graph. If we click on the "theShortestDist" buttoמ we will see on the screen the answer to the shortest way from node to another.
 
-isConnected:
+## Performance analysis of our algorithms:
+
+### isConnected:
+
 1,000 Vertices: 
+
 10,000 Vertices: 
+
 100,000 Vertices: 
-tsp:
+
+### tsp:
+
 1,000 Vertices: 
+
 10,000 Vertices: 
+
 100,000 Vertices: 
-loading:
+
+### loading:
+
 1,000 Vertices: 
+
 10,000 Vertices: 
+
 100,000 Vertices: 
 
 ## our uml diagram:
