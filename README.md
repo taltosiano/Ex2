@@ -1,10 +1,11 @@
-# Ex2
+# OOP_Ex2
 
+## Authors
 **Tal tosiano-208846600**  
 **Moran shalev-316220938**
 
 
-### The purpose of our project
+## The purpose of our project
 Building a Directed weighted graph. 
 The project contains 2 algorithms - for finding the shortest route in the graph.
 
@@ -36,32 +37,31 @@ represents a geo location(x,y,z).represents a Point3D data in the graph.
 represents a Directional Weighted Graph with all his elements(Nodes,Edeges)and   including many functions that updates his elements.
 
 ### GraphAlgorithms
-represents a Directed (positive) Weighted Graph Theory Algorithms and      including many algorithms.
+represents a Directed (positive) Weighted Graph Theory Algorithms and including many algorithms.
 for the tsp function (Travelling salesman problem) we use the "tarjan" algoritem to solve  this problem.
 for the shortestPathDist function we use the dijkstra's algorithm to solve this problem.
+
+### Gui
+
+
+## our GUI screenshot:
+
  
-Building large graphs:
-10 Vertices 90 Edges: 
-100 Vertices 1,000 Edges: 
-1,000 Vertices 10,000 Edges: 
-10,000 Vertices 100,000 Edges: 
-100,000 Vertices 1,000,000 Edges: 
-1,000,000 Vertices 10,000,000 Edges: 
-Running Algorithms:
+### How to load & run the gui
+We load the graph with the "load" button. There are a variety of actions we can perform on the graph, each button performs another action. for example: if we click on the "addNode" button, a vertex will be added to the graph. If we click on the "theShortestDist" buttoמ we will see on the screen the answer to the shortest way from node to another.
+
 isConnected:
-10 Vertices 90 Edges: 
-100 Vertices 1,000 Edges: 
-1,000 Vertices 10,000 Edges: 
-10,000 Vertices 100,000 Edges: 
-100,000 Vertices 2,000,000 Edges: 6 sec 
-1,000,000 Vertices 10,000,000 Edges: 
-Center:
-10 Vertices 90 Edges: 
-100 Vertices 1,000 Edges: 
-1,000 Vertices 10,000 Edges: 
-10,000 Vertices 100,000 Edges: 
-100,000 Vertices 1,000,000 Edges: 
-1,000,000 Vertices 10,000,000 Edges: 
+1,000 Vertices: 
+10,000 Vertices: 
+100,000 Vertices: 
+tsp:
+1,000 Vertices: 
+10,000 Vertices: 
+100,000 Vertices: 
+loading:
+1,000 Vertices: 
+10,000 Vertices: 
+100,000 Vertices: 
 
 ## our uml diagram:
-![Ex2 uml](https://user-images.githubusercontent.com/94299489/145838903-8cb4c2f0-c8e0-492c-8d3d-65bf877497bd.png)
+![Ex2_ uml](https://user-images.githubusercontent.com/94299489/145876396-bb3db890-2036-4018-a439-073a05b63e07.jpeg)
