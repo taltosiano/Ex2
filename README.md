@@ -54,9 +54,12 @@ We load the graph with the "load" button. There are a variety of actions we can 
 
 |   |  1000 | 10000  | 100000  |
 | ------------ | ------------ | ------------ | ------------ |
-|  isConnected |   |   |   |
-|  shortest |   |   |   |
-| load|   |   |   |   |
+|  isConnected |  72 ms |  265 |  3 sec 745 ms |
+|  shortestpath |  99 ms |  287 ms |  5 sec 443 ms |
+| load |   94 ms |  289 ms | 5 sec 538 ms  |
+| save |   27 ms |  34 ms | 43 ms  |
+| tsp |   100 ms |  285 ms | 5 sec 426 ms  |
+
 
 ### isConnected:
 
