@@ -52,6 +52,12 @@ We load the graph with the "load" button. There are a variety of actions we can 
 
 ## Performance analysis of our algorithms:
 
+|   |  1000 | 10000  | 100000  |
+| ------------ | ------------ | ------------ | ------------ |
+|  isConnected |   |   |   |
+|  shortest |   |   |   |
+| load|   |   |   |   |
+
 ### isConnected:
 
 1,000 Vertices: 
