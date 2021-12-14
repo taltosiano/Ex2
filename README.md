@@ -42,11 +42,12 @@ for the tsp function (Travelling salesman problem) we use the "tarjan" algoritem
 for the shortestPathDist function we use the dijkstra's algorithm to solve this problem.
 
 ### Gui
-
+A visual presentation of the graph and the actions we can perform on it.
 
 ## our GUI screenshot:
+example of loading G1.json
+![ourGui](https://user-images.githubusercontent.com/94299489/145985384-7603cae4-34b8-4a8e-a96a-f7f5e08b30d5.jpeg)
 
- 
 ### How to load & run the gui
 We load the graph with the "load" button. There are a variety of actions we can perform on the graph, each button performs another action. for example: if we click on the "addNode" button, a vertex will be added to the graph. If we click on the "theShortestDist" buttoמ we will see on the screen the answer to the shortest way from node to another.
 
@@ -61,29 +62,7 @@ We load the graph with the "load" button. There are a variety of actions we can 
 | tsp |   100 ms |  285 ms | 5 sec 426 ms  |
 
 
-### isConnected:
-
-1,000 Vertices: 
-
-10,000 Vertices: 
-
-100,000 Vertices: 
-
-### tsp:
-
-1,000 Vertices: 
-
-10,000 Vertices: 
-
-100,000 Vertices: 
-
-### loading:
-
-1,000 Vertices: 
-
-10,000 Vertices: 
-
-100,000 Vertices: 
 
 ## our uml diagram:
-![Ex2_ uml](https://user-images.githubusercontent.com/94299489/145876396-bb3db890-2036-4018-a439-073a05b63e07.jpeg)
+
+![UML_Ex2](https://user-images.githubusercontent.com/94299489/146005679-d56cd273-0a1a-46e8-bc21-796432eee292.jpeg)
